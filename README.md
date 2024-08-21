@@ -20,4 +20,4 @@ Durante a realização deste projeto, foram avaliadas as seguintes competências
 - Casos de Teste: Explore o arquivo Parte 2.xlsx para revisar os casos de teste criados.
 
 ## Observações
-Este projeto foi aprovado conforme as diretrizes estabelecidas, sem a necessidade de revisões adicionais. A documentação criada é suficiente para a preparação dos testes futuros, embora não tenha sido realizada a execução dos mesmos.
+Este projeto foi aprovado conforme as diretrizes estabelecidas, sem a necessidade de revisões adicionais. 
