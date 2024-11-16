@@ -12,11 +12,11 @@ Os testes realizados tiveram como resultado a identificação de falhas ou incon
 
 Exemplo de Resultados:
 
-Bug encontrado: Falha no envio de formulário de contato no modo "Formulário Online".
+- Bug encontrado: Falha no envio de formulário de contato no modo "Formulário Online".
 
-Resultado Esperado: O formulário deveria ser enviado sem erros.
+- Resultado Esperado: O formulário deveria ser enviado sem erros.
 
-Solução: O erro foi corrigido, e a funcionalidade de envio de formulário foi validada com sucesso.
+- Solução: O erro foi corrigido, e a funcionalidade de envio de formulário foi validada com sucesso.
 
 📊 Captura de Tela:
 
