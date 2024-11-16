@@ -12,7 +12,7 @@ Os testes realizados tiveram como resultado a identificação de falhas ou incon
 
 Exemplo de Resultados:
 
-Bug Crítico: Falha no envio de formulário de contato no modo "Formulário Online".
+Bug encontrado: Falha no envio de formulário de contato no modo "Formulário Online".
 
 Resultado Esperado: O formulário deveria ser enviado sem erros.
 
